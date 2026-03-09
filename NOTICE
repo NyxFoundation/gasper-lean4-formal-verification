@@ -1,0 +1,8 @@
+Gasper Formal Verification in Lean 4
+Copyright 2025 Nyx Foundation
+
+This project is a derivative work based on the Beacon Chain Verification
+project by Runtime Verification, Inc., originally written in Rocq (Coq):
+https://github.com/runtimeverification/beacon-chain-verification
+
+The original work is licensed under the Apache License, Version 2.0.
